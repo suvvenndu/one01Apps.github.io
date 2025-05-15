@@ -1,27 +1,32 @@
-Key Terms of Use (By Proceeding, You Agree):
+**Effective Date:** 15/05/2025  
 
-No Liability:
+By using this system, **ORIOZ Victoria** ("Licensee") agrees to the following:  
 
-One01Apps, its founders, directors, or employees will not be liable for any technical errors, payment disputes, data breaches, or event mismanagement arising from system use.
+---
 
-All responsibility lies with ORIOZ Victoria as the event organiser.
+### **1. Payment Processing**  
+- **Direct Routing:** All payments are processed via Stripe and deposited **directly into ORIOZ Victoria’s designated account**.  
+- **No Financial Control:** One01Apps does not access, retain, or manage funds. Licensee is solely responsible for Stripe account compliance, refunds, and disputes.  
 
-Indemnity:
+---
 
-ORIOZ Victoria agrees to indemnify One01Apps against any claims, legal actions, or costs (including legal fees) resulting from system use.
+### **2. Data Ownership & Use**  
+- **Ownership:** All system-generated data (attendee details, analytics, etc.) is the exclusive property of One01Apps.  
+- **Sharing Rights:** One01Apps may use or share aggregated/anonymized data for any lawful purpose.  
+- **No Licensee Access:** Licensee has no right to raw data beyond event summaries provided by One01Apps.  
 
-Unilateral Changes:
+---
 
-One01Apps reserves the right to modify, suspend, or terminate access at any time, without notice.
+### **3. No Liability**  
+- One01Apps is not liable for technical errors, payment disputes, or data breaches. Licensee assumes all responsibility.  
 
-Attendee Terms:
+### **4. Indemnity**  
+- Licensee indemnifies One01Apps against claims arising from system use.  
 
-ORIOZ Victoria must inform all attendees that:
+### **5. Unilateral Changes**  
+- One01Apps may modify or terminate access at any time without notice.  
 
-“This ticketing system is provided by a third party (One01Apps). ORIOZ Victoria is solely responsible for ticket sales, pricing, and dispute resolution.”
+### **6. Governing Law**  
+- Victorian law governs these terms.  
 
-Governing Law:
-
-This arrangement is governed by Victorian law.
-
-Proceeding with ticket sales constitutes acceptance of these terms.
+*Use of the system constitutes acceptance.*  
