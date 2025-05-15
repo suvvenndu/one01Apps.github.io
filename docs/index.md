@@ -1,6 +1,6 @@
 **Effective Date:** 15/05/2025  
 
-By using this system, **ORIOZ Victoria** ("Licensee") agrees to the following:  
+By using this system, **ORIOZ INC** ("Licensee") agrees to the following:  
 
 ---
 
