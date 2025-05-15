@@ -27,6 +27,9 @@ By using this system, **ORIOZ INC** ("Licensee") agrees to the following:
 - One01Apps may modify or terminate access at any time without notice.  
 
 ### **6. Governing Law**  
-- Victorian law governs these terms.  
+- Victorian law governs these terms.
+
+### **7. No Fees**  
+- One01Apps provides this system free of charge. No fees, commissions, or hidden costs apply.  
 
 *Use of the system constitutes acceptance.*  
